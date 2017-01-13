@@ -14,7 +14,7 @@ For a hypothetical filesystem location of /Users/amanda/data/, select each of th
 ##Relative path resolution
 Using the filesystem diagram below, if pwd displays /Users/thing, what will ls ../backup display?
 
-![image for challenge](https://github.com/swcarpentry/shell-novice/blob/gh-pages/fig/filesystem-challenge.svg)
+![image for challenge](https://raw.githubusercontent.com/swcarpentry/shell-novice/gh-pages/fig/filesystem-challenge.svg)
 
 ```
 1. ../backup: No such file or directory
